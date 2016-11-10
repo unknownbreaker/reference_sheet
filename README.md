@@ -11,11 +11,11 @@
 |Stash changes|`git stash`|
 |View list of stashed changes|`git stash list`|
 |Restore stashed change|`git stash apply [the thing from list]`|
-|vim|Replace column of text|`Ctrl+V`<br>_Select text_<br>`Shift+i`<br>_Type your changes_<br>`Esc`|
 
 ### vim<a name="vim"></a>
 | ACTION | COMMAND |
 |--------|---------|
+|Replace column of text|`Ctrl+V`<br>_Select text_<br>`Shift+i`<br>_Type your changes_<br>`Esc`|
 Insert line above|`O`|
 Insert line below|`o`|
 Go to beginning of line|`^` or `0`|
