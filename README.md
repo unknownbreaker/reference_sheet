@@ -15,7 +15,7 @@
 ### vim<a name="vim"></a>
 | ACTION | COMMAND |
 |--------|---------|
-|Replace column of text|`Ctrl+V`<br>_Select text_<br>`Shift+i`<br>_Type your changes_<br>`Esc`|
+|Replace column of text|`Ctrl+V`<br>_Select text_<br>`c`<br>_Type your changes_<br>`Esc`|
 Insert line above|`O`|
 Insert line below|`o`|
 Go to beginning of line|`^` or `0`|
