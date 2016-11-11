@@ -1,2 +1,2 @@
 # Reference sheet
-[Cheatsheet](/wiki)
+[Cheatsheet](https://github.com/unknownbreaker/reference_sheet/wiki)
